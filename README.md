@@ -1,7 +1,5 @@
 - Helo, I’m @xio-noid, the coolest person ever B).
 - I’m interested in Minecraft modding, web design, and game development in the Godot engine!
-- I’m currently learning Java.
-- I’m looking to collaborate on your mom.
 - Reach me nowhere 👍!
 
 <!---
